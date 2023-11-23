@@ -1,17 +1,25 @@
-# janjian
+# 2023mobile-janjian
+
+## Janjian
 
 Janjian merupakan aplikasi yang mempermudah pengguna untuk saling terhubung dan menjadwalkan seluruh agenda.
 
-## Getting Started
+## App Preview
 
-This project is a starting point for a Flutter application.
+<div align="center">
+  <img src="screenshots/onboard.jpg" alt="Onboard" width="200"/>
+  <img src="screenshots/login.jpg" alt="Login" width="200"/>
+  <img src="screenshots/register.jpg" alt="Register" width="200"/>
+</div>
 
-A few resources to get you started if this is your first Flutter project:
+<div align="center">
+  <img src="screenshots/undangan_dari_saya.jpg" alt="Undangan Dari Saya" width="200"/>
+  <img src="screenshots/undangan_untuk_saya.jpg" alt="Undangan Untuk Saya" width="200"/>
+  <img src="screenshots/buat_undangan_baru.jpg" alt="Buat Undangan Baru" width="200"/>
+</div>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# 2023mobile-janjian
+<div align="center">
+  <img src="screenshots/waktu_luang1.jpg" alt="Waktu Luang 1" width="200"/>
+  <img src="screenshots/waktu_luang2.jpg" alt="Waktu Luang 2" width="200"/>
+  <img src="screenshots/pengaturan_profil.jpg" alt="Pengaturan Profil" width="200"/>
+</div>
